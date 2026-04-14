@@ -1,2 +1,1 @@
-# SpoofLock
-SpoofLock your Chromebook with this Shell command!
+This is how to SpoofLock Your Chromebook!
