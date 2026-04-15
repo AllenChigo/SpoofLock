@@ -1,5 +1,6 @@
-sudo -i bash <(curl -SLk https://github.com/MercuryWorkshop/fakemurk/releases/latest/download/fakemurk.sh)
-// In case that one doesn't work. which It Should Work, Try This One.
+sudo -i bash <(curl -SLk https://github.com/MercuryWorkshop/fakemurk/releases/latest/download/fakemurk.sh) 
+
+In case that one doesn't work. which It Should Work, Try This One.
 
 #!/bin/bash
 # Chromebook Enrollment Status Checker
