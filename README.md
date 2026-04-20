@@ -1,1 +1,1 @@
-This is how to SpoofLock Your Chromebook!
+I DO NOT TAKE RESPONSIBILITY FOR ANY TROUBLE THIS MIGHT GET YOU IN!
